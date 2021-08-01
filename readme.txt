@@ -7,3 +7,5 @@ the code to test
 
 git fix bugs
 
+Another person
+
